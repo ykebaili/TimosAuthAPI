@@ -24,6 +24,7 @@ namespace TimosAuthAPI.Controllers
         // POST api/values
         public void Post([FromBody]string value)
         {
+            // Code à écrire
         }
 
         // PUT api/values/5
